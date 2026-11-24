@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="DDsgaEpw27WiYW2LREfU">
-    <mxGraphModel dx="1416" dy="323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1832" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,6 +93,18 @@
         </mxCell>
         <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-25" connectable="0" parent="6IjeFF7X5D7AmlJ2Y9h3-24" style="edgeLabel;resizable=0;html=1;inheritText=1;;align=center;verticalAlign=middle;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="371.25 MHz" vertex="1">
           <mxGeometry relative="1" x="0.3333" as="geometry" />
+        </mxCell>
+        <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="HDMI Connector" vertex="1">
+          <mxGeometry height="40" width="120" x="80" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Monitor" vertex="1">
+          <mxGeometry height="40" width="120" x="80" y="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-28" edge="1" parent="1" source="6IjeFF7X5D7AmlJ2Y9h3-26" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" target="6IjeFF7X5D7AmlJ2Y9h3-27" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="300" y="1030" as="sourcePoint" />
+            <mxPoint x="350" y="980" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
