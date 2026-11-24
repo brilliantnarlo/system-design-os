@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-48" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="280" width="280" x="100" y="1190" as="geometry" />
+        </mxCell>
         <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-46" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="440" width="440" x="440" y="970" as="geometry" />
         </mxCell>
@@ -200,6 +203,9 @@
         </mxCell>
         <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Graphic Processing Unit" vertex="1">
           <mxGeometry height="30" width="140" x="490" y="1330" as="geometry" />
+        </mxCell>
+        <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Display Transmission Unit" vertex="1">
+          <mxGeometry height="30" width="140" x="100" y="1430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
