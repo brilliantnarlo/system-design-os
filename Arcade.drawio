@@ -113,7 +113,7 @@
         </mxCell>
         <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-25" connectable="0" parent="6IjeFF7X5D7AmlJ2Y9h3-24" style="edgeLabel;resizable=0;html=1;inheritText=1;;align=center;verticalAlign=middle;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="371.25 MHz" vertex="1">
           <mxGeometry relative="1" x="0.5323" as="geometry">
-            <mxPoint x="-127" as="offset" />
+            <mxPoint x="-59" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="HDMI Connector" vertex="1">
