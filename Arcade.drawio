@@ -25,6 +25,9 @@
         <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Graphic Controller" vertex="1">
           <mxGeometry height="60" width="120" x="460" y="450" as="geometry" />
         </mxCell>
+        <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="A1 Bus" vertex="1">
+          <mxGeometry height="60" width="120" x="500" y="280" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
