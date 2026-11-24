@@ -58,6 +58,21 @@
             <mxPoint x="350" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="rPLL" vertex="1">
+          <mxGeometry height="40" width="120" x="240" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="CLKDiv" vertex="1">
+          <mxGeometry height="40" width="120" x="320" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="27 MHz oscillator" vertex="1">
+          <mxGeometry height="40" width="120" x="240" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-17" edge="1" parent="1" source="6IjeFF7X5D7AmlJ2Y9h3-16" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" target="6IjeFF7X5D7AmlJ2Y9h3-14" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="260" y="730" as="sourcePoint" />
+            <mxPoint x="310" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
