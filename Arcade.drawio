@@ -11,22 +11,22 @@
           <mxGeometry height="120" width="180" x="120" y="140" as="geometry" />
         </mxCell>
         <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Video Timming" vertex="1">
-          <mxGeometry height="60" width="120" x="100" y="400" as="geometry" />
+          <mxGeometry height="60" width="120" x="100" y="270" as="geometry" />
         </mxCell>
         <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DviTx" vertex="1">
-          <mxGeometry height="60" width="120" x="100" y="520" as="geometry" />
+          <mxGeometry height="60" width="120" x="120" y="620" as="geometry" />
         </mxCell>
         <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ClkDiv" vertex="1">
-          <mxGeometry height="60" width="120" x="280" y="390" as="geometry" />
+          <mxGeometry height="60" width="120" x="305" y="280" as="geometry" />
         </mxCell>
         <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="rPLL" vertex="1">
-          <mxGeometry height="60" width="120" x="280" y="520" as="geometry" />
+          <mxGeometry height="60" width="120" x="320" y="650" as="geometry" />
         </mxCell>
         <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Graphic Controller" vertex="1">
-          <mxGeometry height="60" width="120" x="460" y="450" as="geometry" />
+          <mxGeometry height="60" width="120" x="550" y="570" as="geometry" />
         </mxCell>
         <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="A1 Bus" vertex="1">
-          <mxGeometry height="60" width="120" x="500" y="280" as="geometry" />
+          <mxGeometry height="40" width="560" x="120" y="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
