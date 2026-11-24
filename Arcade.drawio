@@ -28,6 +28,18 @@
         <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="A1 Bus" vertex="1">
           <mxGeometry height="40" width="560" x="120" y="440" as="geometry" />
         </mxCell>
+        <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-9" edge="1" parent="1" source="6IjeFF7X5D7AmlJ2Y9h3-3" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" target="6IjeFF7X5D7AmlJ2Y9h3-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="400" as="sourcePoint" />
+            <mxPoint x="470" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-10" edge="1" parent="1" source="6IjeFF7X5D7AmlJ2Y9h3-5" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" target="6IjeFF7X5D7AmlJ2Y9h3-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="400" as="sourcePoint" />
+            <mxPoint x="470" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
