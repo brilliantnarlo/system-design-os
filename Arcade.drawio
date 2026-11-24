@@ -82,6 +82,11 @@
         <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-20" connectable="0" parent="6IjeFF7X5D7AmlJ2Y9h3-19" style="edgeLabel;resizable=0;html=1;inheritText=1;;align=center;verticalAlign=middle;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="371.25 MHz" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-38" connectable="0" parent="6IjeFF7X5D7AmlJ2Y9h3-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="pll_locked,&amp;nbsp;serial_clk" vertex="1">
+          <mxGeometry relative="1" x="0.3111" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Dvi TX" vertex="1">
           <mxGeometry height="40" width="120" x="200" y="1150" as="geometry" />
         </mxCell>
