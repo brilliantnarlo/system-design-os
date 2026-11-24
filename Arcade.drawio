@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="DDsgaEpw27WiYW2LREfU">
-    <mxGraphModel dx="2554" dy="973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1177" dy="187" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,7 +61,7 @@
         <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="rPLL" vertex="1">
           <mxGeometry height="40" width="120" x="240" y="760" as="geometry" />
         </mxCell>
-        <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="CLKDiv" vertex="1">
+        <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="CLKDiv / 5" vertex="1">
           <mxGeometry height="40" width="120" x="320" y="880" as="geometry" />
         </mxCell>
         <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="27 MHz oscillator" vertex="1">
@@ -72,6 +72,15 @@
             <mxPoint x="260" y="730" as="sourcePoint" />
             <mxPoint x="310" y="680" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-19" edge="1" parent="1" source="6IjeFF7X5D7AmlJ2Y9h3-14" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1.083;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" target="6IjeFF7X5D7AmlJ2Y9h3-15" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="710" as="sourcePoint" />
+            <mxPoint x="330" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-20" connectable="0" parent="6IjeFF7X5D7AmlJ2Y9h3-19" style="edgeLabel;resizable=0;html=1;inheritText=1;;align=center;verticalAlign=middle;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="371.25 MHz" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
