@@ -312,6 +312,15 @@
             <mxPoint x="1510" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="h4ULcpxznU3OuwGSRhy_-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Games Manager" vertex="1">
+          <mxGeometry height="40" width="120" x="1480" y="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="h4ULcpxznU3OuwGSRhy_-27" edge="1" parent="1" source="h4ULcpxznU3OuwGSRhy_-20" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="h4ULcpxznU3OuwGSRhy_-26" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="1500" y="990" as="sourcePoint" />
+            <mxPoint x="1600" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
