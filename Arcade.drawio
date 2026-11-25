@@ -8,7 +8,7 @@
           <mxGeometry height="280" width="280" x="100" y="1190" as="geometry" />
         </mxCell>
         <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-46" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="440" width="440" x="440" y="970" as="geometry" />
+          <mxGeometry height="610" width="610" x="440" y="970" as="geometry" />
         </mxCell>
         <mxCell id="6IjeFF7X5D7AmlJ2Y9h3-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="310" width="410" x="70" y="650" as="geometry" />
@@ -210,8 +210,8 @@
         <mxCell id="vVlsjElS9IMfziyHucaN-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Font ROM" vertex="1">
           <mxGeometry height="40" width="120" x="900" y="1150" as="geometry" />
         </mxCell>
-        <mxCell id="vVlsjElS9IMfziyHucaN-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Text Render" vertex="1">
-          <mxGeometry height="40" width="120" x="910" y="1240" as="geometry" />
+        <mxCell id="vVlsjElS9IMfziyHucaN-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Font Render Engine" vertex="1">
+          <mxGeometry height="40" width="120" x="820" y="1255" as="geometry" />
         </mxCell>
         <mxCell id="vVlsjElS9IMfziyHucaN-3" edge="1" parent="1" source="vVlsjElS9IMfziyHucaN-1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" target="vVlsjElS9IMfziyHucaN-2" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
