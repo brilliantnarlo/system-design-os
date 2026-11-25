@@ -222,6 +222,42 @@
         <mxCell id="h4ULcpxznU3OuwGSRhy_-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="A1_Bus" vertex="1">
           <mxGeometry height="40" width="120" x="1040" y="480" as="geometry" />
         </mxCell>
+        <mxCell id="h4ULcpxznU3OuwGSRhy_-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="rPLL" vertex="1">
+          <mxGeometry height="40" width="120" x="1120" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="h4ULcpxznU3OuwGSRhy_-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="CLK DIV" vertex="1">
+          <mxGeometry height="40" width="120" x="1120" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="h4ULcpxznU3OuwGSRhy_-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Input Ctrl" vertex="1">
+          <mxGeometry height="40" width="120" x="1120" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="h4ULcpxznU3OuwGSRhy_-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Video Timming" vertex="1">
+          <mxGeometry height="40" width="120" x="1120" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="h4ULcpxznU3OuwGSRhy_-9" edge="1" parent="1" source="h4ULcpxznU3OuwGSRhy_-1" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="h4ULcpxznU3OuwGSRhy_-5" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="1240" y="700" as="sourcePoint" />
+            <mxPoint x="1340" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h4ULcpxznU3OuwGSRhy_-11" edge="1" parent="1" source="h4ULcpxznU3OuwGSRhy_-1" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.042;entryY=0.474;entryDx=0;entryDy=0;" target="h4ULcpxznU3OuwGSRhy_-6" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="1240" y="700" as="sourcePoint" />
+            <mxPoint x="1340" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h4ULcpxznU3OuwGSRhy_-12" edge="1" parent="1" source="h4ULcpxznU3OuwGSRhy_-1" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="h4ULcpxznU3OuwGSRhy_-7" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="1240" y="700" as="sourcePoint" />
+            <mxPoint x="1340" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h4ULcpxznU3OuwGSRhy_-13" edge="1" parent="1" source="h4ULcpxznU3OuwGSRhy_-1" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="h4ULcpxznU3OuwGSRhy_-8" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="1240" y="750" as="sourcePoint" />
+            <mxPoint x="1340" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
