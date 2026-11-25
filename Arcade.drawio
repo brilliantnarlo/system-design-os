@@ -727,6 +727,24 @@
             <mxPoint x="1840" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="iCZRcAHc8WmaBxoieI7S-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Font Render Engine" vertex="1">
+          <mxGeometry height="40" width="120" x="1830" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="iCZRcAHc8WmaBxoieI7S-2" edge="1" parent="1" source="Bk1UMH_C4-eAR8nxZXZ1-2" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="iCZRcAHc8WmaBxoieI7S-1" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="1750" y="1100" as="sourcePoint" />
+            <mxPoint x="1780" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iCZRcAHc8WmaBxoieI7S-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Font ROM" vertex="1">
+          <mxGeometry height="40" width="120" x="1915" y="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="iCZRcAHc8WmaBxoieI7S-4" edge="1" parent="1" source="iCZRcAHc8WmaBxoieI7S-1" style="fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" target="iCZRcAHc8WmaBxoieI7S-3" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="1315" y="1060" as="sourcePoint" />
+            <mxPoint x="1415" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
