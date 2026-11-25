@@ -683,7 +683,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h4ULcpxznU3OuwGSRhy_-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Menu" vertex="1">
-          <mxGeometry height="40" width="120" x="1595" y="760" as="geometry" />
+          <mxGeometry height="40" width="120" x="1600" y="880" as="geometry" />
         </mxCell>
         <mxCell id="h4ULcpxznU3OuwGSRhy_-21" edge="1" parent="1" source="h4ULcpxznU3OuwGSRhy_-14" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="h4ULcpxznU3OuwGSRhy_-20" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
@@ -692,25 +692,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h4ULcpxznU3OuwGSRhy_-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Font Render Engine" vertex="1">
-          <mxGeometry height="40" width="120" x="1715" y="840" as="geometry" />
+          <mxGeometry height="40" width="120" x="1720" y="960" as="geometry" />
         </mxCell>
         <mxCell id="h4ULcpxznU3OuwGSRhy_-23" edge="1" parent="1" source="h4ULcpxznU3OuwGSRhy_-20" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="h4ULcpxznU3OuwGSRhy_-22" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
-            <mxPoint x="1645" y="800" as="sourcePoint" />
-            <mxPoint x="1745" y="700" as="targetPoint" />
+            <mxPoint x="1650" y="920" as="sourcePoint" />
+            <mxPoint x="1750" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h4ULcpxznU3OuwGSRhy_-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Font ROM" vertex="1">
-          <mxGeometry height="40" width="120" x="1835" y="920" as="geometry" />
+          <mxGeometry height="40" width="120" x="1805" y="1060" as="geometry" />
         </mxCell>
         <mxCell id="h4ULcpxznU3OuwGSRhy_-25" edge="1" parent="1" source="h4ULcpxznU3OuwGSRhy_-22" style="fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" target="h4ULcpxznU3OuwGSRhy_-24" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
-            <mxPoint x="1645" y="800" as="sourcePoint" />
-            <mxPoint x="1745" y="700" as="targetPoint" />
+            <mxPoint x="1445" y="930" as="sourcePoint" />
+            <mxPoint x="1545" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h4ULcpxznU3OuwGSRhy_-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Games Manager" vertex="1">
-          <mxGeometry height="40" width="120" x="1595" y="960" as="geometry" />
+          <mxGeometry height="40" width="120" x="1600" y="800" as="geometry" />
         </mxCell>
         <mxCell id="h4ULcpxznU3OuwGSRhy_-27" edge="1" parent="1" source="h4ULcpxznU3OuwGSRhy_-14" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="h4ULcpxznU3OuwGSRhy_-26" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
