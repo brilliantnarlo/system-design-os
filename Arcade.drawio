@@ -745,7 +745,7 @@
             <mxPoint x="1415" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iCZRcAHc8WmaBxoieI7S-5" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="FPGA I2C" vertex="1">
+        <mxCell id="iCZRcAHc8WmaBxoieI7S-5" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="FPGA I2C (GPIO)" vertex="1">
           <mxGeometry height="80" width="80" x="1880" y="640" as="geometry" />
         </mxCell>
         <mxCell id="iCZRcAHc8WmaBxoieI7S-7" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Electronic Component" vertex="1">
