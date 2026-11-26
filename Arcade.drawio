@@ -760,7 +760,7 @@
             <mxPoint x="1770" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iCZRcAHc8WmaBxoieI7S-13" connectable="0" parent="iCZRcAHc8WmaBxoieI7S-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="UART / USBC / GPIO" vertex="1">
+        <mxCell id="iCZRcAHc8WmaBxoieI7S-13" connectable="0" parent="iCZRcAHc8WmaBxoieI7S-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="UART / USBC / GPIO / JTAG" vertex="1">
           <mxGeometry relative="1" x="-0.003" y="-1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
