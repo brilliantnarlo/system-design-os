@@ -397,7 +397,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Original design" id="DDsgaEpw27WiYW2LREfU">
-    <mxGraphModel dx="2261" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2411" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -743,6 +743,27 @@
           <mxGeometry height="100" relative="1" width="100" as="geometry">
             <mxPoint x="1315" y="1060" as="sourcePoint" />
             <mxPoint x="1415" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iCZRcAHc8WmaBxoieI7S-5" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="FPGA I2C" vertex="1">
+          <mxGeometry height="80" width="80" x="1880" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="iCZRcAHc8WmaBxoieI7S-7" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Electronic Component" vertex="1">
+          <mxGeometry height="80" width="80" x="2080" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="iCZRcAHc8WmaBxoieI7S-10" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Interface" vertex="1">
+          <mxGeometry height="80" width="80" x="1880" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="iCZRcAHc8WmaBxoieI7S-11" edge="1" parent="1" source="iCZRcAHc8WmaBxoieI7S-10" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" target="iCZRcAHc8WmaBxoieI7S-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1720" y="760" as="sourcePoint" />
+            <mxPoint x="1770" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iCZRcAHc8WmaBxoieI7S-12" edge="1" parent="1" source="iCZRcAHc8WmaBxoieI7S-5" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" target="iCZRcAHc8WmaBxoieI7S-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1720" y="760" as="sourcePoint" />
+            <mxPoint x="1770" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
